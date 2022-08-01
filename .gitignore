@@ -1,0 +1,7 @@
+# ignores all .md files
+*.md
+#but do track alphabets.md eventhough you're ignoring .md files above
+!alphabets.md
+#ignore all fiels in any directory named build
+build/
+

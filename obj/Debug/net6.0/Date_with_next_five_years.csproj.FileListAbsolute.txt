@@ -1,0 +1,15 @@
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\Date_with_next_five_years.exe
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\Date_with_next_five_years.deps.json
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\Date_with_next_five_years.runtimeconfig.json
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\Date_with_next_five_years.dll
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\ref\Date_with_next_five_years.dll
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\bin\Debug\net6.0\Date_with_next_five_years.pdb
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.csproj.AssemblyReference.cache
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.AssemblyInfoInputs.cache
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.AssemblyInfo.cs
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.csproj.CoreCompileInputs.cache
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.dll
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\ref\Date_with_next_five_years.dll
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.pdb
+C:\Users\Naveen Reddy\Desktop\C#\Date_with_next_five_years\obj\Debug\net6.0\Date_with_next_five_years.genruntimeconfig.cache
